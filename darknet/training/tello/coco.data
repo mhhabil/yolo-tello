@@ -1,0 +1,6 @@
+classes = 1
+train   = /Users/mhhabil/Documents/projects/yolo-tello/darknet/training/tello/train.txt
+valid   = /Users/mhhabil/Documents/projects/yolo-tello/darknet/training/tello/test.txt
+names   = tello.names
+backup  = /Users/mhhabil/Documents/projects/yolo-tello/darknet/backup/
+
